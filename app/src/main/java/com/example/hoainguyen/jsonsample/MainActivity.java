@@ -19,6 +19,8 @@ import java.util.HashMap;
 
 public class MainActivity extends AppCompatActivity {
 
+    private final String TAG = "MainActivity";
+
     //private ProgressDialog pDialog;
     private ListView listView;
 
